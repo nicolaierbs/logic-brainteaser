@@ -21,3 +21,8 @@ This is similar to the [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_
 ### Finding the heavy ball on a scale
 This brainteaser is a 'classic' brainteaser where you have a scale and three or nine balls.
 One ball is heavier and you need to find it by using the scale only once (twice).
+
+
+## Usage
+Feel free to use the notebooks for education or any other purpos.
+Keep in mind that there are often many possible solutions and these solutions can be further improved.
